@@ -1,4 +1,4 @@
-import java.util.Scanner;
+package lessons;
 
 public class Hello {
   public static void main(String[] args) {
@@ -13,8 +13,6 @@ public class Hello {
     System.out.println(ps2.getAge());
     System.out.println(ps3.getName());
     System.out.println(ps3.getAge());
-
-
   }
 }
 
